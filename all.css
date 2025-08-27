@@ -1,0 +1,64 @@
+/* ======================================
+   Untitled Sans (Regular + Bold)
+   ====================================== */
+@font-face {
+  font-family: "Untitled Sans";
+  src: url("untitled-sans/untitled-sans-web-regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Untitled Sans";
+  src: url("untitled-sans/untitled-sans-web-bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* ======================================
+   Tiempos Text
+   ====================================== */
+@font-face {
+  font-family: "Tiempos Text";
+  src: url("tiempos/TiemposTextWeb-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Tiempos Text";
+  src: url("tiempos/TiemposTextWeb-RegularItalic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Tiempos Text";
+  src: url("tiempos/TiemposTextWeb-Semibold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Tiempos Text";
+  src: url("tiempos/TiemposTextWeb-SemiboldItalic.woff2") format("woff2");
+  font-weight: 600;
+  font-style: italic;
+}
+
+/* ======================================
+   Tiempos Headline
+   ====================================== */
+@font-face {
+  font-family: "Tiempos Headline";
+  src: url("tiempos/TiemposHeadlineWeb-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Tiempos Headline";
+  src: url("tiempos/TiemposHeadlineWeb-BoldItalic.woff2") format("woff2");
+  font-weight: 700;
+  font-style: italic;
+}
